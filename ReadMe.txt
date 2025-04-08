@@ -1,6 +1,8 @@
 How This Works
 Streamlit Inputs:
 
+Mailbox: Enter the mailbox’s SMTP email address or display name (e.g., "myemail@domain.com" or "Some Shared Mailbox").
+
 Subject Filter: We check whether the user-provided string appears in the message’s 
 Subject.
 
